@@ -6,7 +6,7 @@ Python ve OpenCV kullanarak peppers.png üzerinde HSI filtresinin uygulanması.
 
 ## HSI Filtresi Uygulanmış Görsel
 
-![Hsi Filter](output/hsi_filter.png)
+![Hsi Filter](output/peppers_hsi.png)
 
 ## Lisans
 
