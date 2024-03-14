@@ -5,9 +5,9 @@ import numpy as np
 # Output directory
 output_directory = 'output/grayscale'
 
-# Create grayscale folder if it doesn't exist
-if not os.path.exists('output/grayscale'):
-    os.makedirs('output/grayscale')
+# Create output folder if it doesn't exist
+if not os.path.exists(output_directory):
+    os.makedirs(output_directory)
 
 # Read the image
 image = cv2.imread('image/peppers.png')

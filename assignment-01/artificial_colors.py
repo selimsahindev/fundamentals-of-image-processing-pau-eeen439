@@ -5,7 +5,7 @@ import numpy as np
 # Output directory
 output_directory = 'output/artificial_colors'
 
-# Create grayscale folder if it doesn't exist
+# Create output folder if it doesn't exist
 if not os.path.exists(output_directory):
     os.makedirs(output_directory)
     

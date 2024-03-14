@@ -5,7 +5,7 @@ import numpy as np
 # Output directory
 output_directory = 'output/color_filter'
 
-# Create grayscale folder if it doesn't exist
+# Create output folder if it doesn't exist
 if not os.path.exists(output_directory):
     os.makedirs(output_directory)
 
