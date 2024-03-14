@@ -51,7 +51,7 @@ if not os.path.exists(output_directory):
 hsi_img = rgb_to_hsi(img)
 
 # Save the image
-cv2.imwrite(output_directory + "/peppers_hsi.png", hsi_img)
+cv2.imwrite(output_directory + "/hsi_filter.png", hsi_img)
 
 # Display the image
 cv2.imshow("HSI Image", hsi_img)
