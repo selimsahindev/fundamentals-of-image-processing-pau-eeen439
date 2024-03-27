@@ -9,6 +9,9 @@ Bu repository, Pamukkale Üniversitesi EEEN 439 Görüntü İşlemenin Temelleri
 |---|---|
 | **[Hafta 01](assignment-01)** | Python ve OpenCV kullanarak peppers.png üzerinde renk filtrelerinin uygulanması. |
 | **[Hafta 02](assignment-02)** | Python ve OpenCV kullanarak peppers.png üzerinde HSI filtresinin uygulanması. |
+| **[Hafta 03](.)** | Kaydedilmedi. |
+| **[Hafta 04](.)** | Kaydedilmedi. |
+| **[Hafta 05](assignment-05)** | Python ve OpenCV kullanarak görsele yapay gürültü ve AGS filtresi uygulanması. |
 
 Not: Her haftaya ait görevlerin detayları ve kod örnekleri ilgili klasörlerde yer almaktadır.
 
