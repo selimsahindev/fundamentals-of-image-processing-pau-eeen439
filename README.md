@@ -12,6 +12,7 @@ Bu repository, Pamukkale Üniversitesi EEEN 439 Görüntü İşlemenin Temelleri
 | **[Hafta 04](.)**             | Kaydedilmedi.                                                                     |
 | **[Hafta 05](assignment-05)** | Python ve OpenCV kullanarak görsele yapay gürültü ve AGS filtresi uygulanması.    |
 | **[Hafta 06](assignment-06)** | Görsele tuz biber gürültüsü uygulanması ve medyan filtreleme ile gürültü azaltma. |
+| **[Hafta 07](assignment-07)** | İdeal, Butterworth ve Gaussian yüksek geçiren filtrelerinin uygulanması.          |
 
 Not: Her haftaya ait görevlerin detayları ve kod örnekleri ilgili klasörlerde yer almaktadır.
 
