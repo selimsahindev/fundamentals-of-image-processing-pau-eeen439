@@ -14,6 +14,7 @@ Bu repository, Pamukkale Üniversitesi EEEN 439 Görüntü İşlemenin Temelleri
 | **[Hafta 06](assignment-06)** | Görsele tuz biber gürültüsü uygulanması ve medyan filtreleme ile gürültü azaltma. |
 | **[Hafta 07](assignment-07)** | İdeal, Butterworth ve Gaussian yüksek geçiren filtrelerinin uygulanması.          |
 | **[Hafta 08](assignment-08)** | Wiener filtre ve Gaussian filtre ile karşılaştırmalı görüntü onarma.              |
+| **[Hafta 09](assignment-09)** | Görsele OTSU eşikleme algoritmasının uygulanması.                                 |
 
 Not: Her haftaya ait görevlerin detayları ve kod örnekleri ilgili klasörlerde yer almaktadır.
 
